@@ -1,0 +1,252 @@
+<!doctype html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>{% block title %}Pearl.2201{% endblock %}</title>
+
+ <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link rel="shortcut icon" href="/static/favicon.ico">
+
+  <!-- HTML5 shim, for IE 6-8 support of HTML elements -->
+  <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="/static/css/styles.css" >
+      <link rel="stylesheet" href="/static/css/typeaheadjs.css" >
+  {% block css %}{% endblock %}
+
+  <!-- Rather use `less.js` to dynamically compile your `stylesheet/less` files? -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/less.js/1.4.1/less.min.js"></script>
+  <script src="/static/js/bootstrap-validate.js"></script>
+
+
+  <script>window.less || document.write('<script src="/static/js/less.js">\x3C/script>')</script>
+
+  <!-- Need Modernizr? Uncomment the following script. -->
+  <!-- <script src="/static/js/modernizr.js"></script> -->
+
+</head>
+
+
+<body>
+    <div class="container-fluid">
+  <header>
+    {% include "header.html" %}
+  </header>
+  </div>
+<div class="container">
+  <div id="main" role="main">
+    {% block main %}{% endblock %}
+  </div>
+
+  <footer>
+    {% include "footer.html" %}
+  </footer>
+</div>
+
+  <!-- JavaScript at the bottom for fast page loading -->
+
+  <!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if necessary -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+  <script src="/static/js/bloodhound.js"></script>
+  
+    <script src="/static/js/typeahead.bundle.js"></script>
+  <!-- Additional JavaScript libraries and plugins... -->
+  {% block js %}{% endblock %}
+
+<!--
+
+<script type="text/javascript">
+var yt_search = [];
+$(".typeahead").typeahead({
+
+    source: function(query, process) {
+        console.log(query);
+            $(".typeahead").focus();
+            return $.ajax({
+                type: "POST",
+                url: "/api/search/",
+                // The key needs to match your method's input parameter (case-sensitive).
+                data: JSON.stringify({
+                    'query': query
+                }),
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function(data) {
+                    console.log(data);
+                    return process(data);
+                },
+                failure: function(errMsg) {
+                    console.error(errMsg);
+                }
+            });
+        
+
+      
+
+
+    },
+    property: "name",
+
+    afterSelect: function (item) {
+        // do what is needed with item
+        //and then, for example ,focus on some other control
+
+      $.ajax({
+                type: "POST",
+                url: "/video/",
+                // The key needs to match your method's input parameter (case-sensitive).
+                data: JSON.stringify({
+                    'id': item.videoId
+                }),
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function(data) {
+                    console.log ("path: " + data);
+                      window.location.href = data.url;
+                },
+                failure: function(errMsg) {
+                    console.error(errMsg);
+                }
+            });
+    }
+});
+
+ $( "#birds" ).autocomplete({
+      source: function( request, response ) {
+        $.ajax( {
+          
+          type: "POST",
+                url: "/api/search/",
+                // The key needs to match your method's input parameter (case-sensitive).
+                data: JSON.stringify({
+                    'query': request.term
+                }),
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function(data) {
+                    console.log(data);
+                    yt_search = data;
+                    var arr = [];
+                    for (var i = 0; i< yt_search.length; i++)
+                    {
+                      arr.push(
+                        {
+                    label: yt_search[i].name,
+                    value: yt_search[i].name,
+                    id: yt_search[i].videoId
+                });
+                    }
+
+                    return response( arr );
+                },
+                failure: function(errMsg) {
+                    console.error(errMsg);
+                }
+        } );
+      },
+      minLength: 2,
+      select: function( event, ui ) {
+        console.log(ui.item);
+      $.ajax({
+                type: "POST",
+                url: "/video/",
+                // The key needs to match your method's input parameter (case-sensitive).
+                data: JSON.stringify({
+                    'id': ui.item.id
+                }),
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function(data) {
+                    console.log ("path: " + data);
+                      window.location.href = data.url;
+                },
+                failure: function(errMsg) {
+                    console.error(errMsg);
+                }
+            });
+      }
+    } );
+</script>
+-->
+<script>
+var bestPictures = new Bloodhound({
+    datumTokenizer: function (d) {
+        return Bloodhound.tokenizers.whitespace(d.value)
+    },
+    queryTokenizer: Bloodhound.tokenizers.whitespace,
+    remote: {
+        url: "/api/search/",
+                   prepare: function (query, settings) {
+                      settings.type = "POST";
+                      settings.contentType = "application/json; charset=UTF-8";
+                      settings.data = JSON.stringify({'query':query});
+
+                      return settings;
+      }
+    }
+});
+
+$('#ytsearch .typeahead').typeahead(null, {
+  name: 'best-pictures',
+  display: 'name',
+  source: bestPictures,
+  afterSelect: function (item) {
+        // do what is needed with item
+        //and then, for example ,focus on some other control
+
+      $.ajax({
+                type: "POST",
+                url: "/video/",
+                // The key needs to match your method's input parameter (case-sensitive).
+                data: JSON.stringify({
+                    'id': item.videoId
+                }),
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function(data) {
+                    console.log ("path: " + data);
+                      window.location.href = data.url;
+                },
+                failure: function(errMsg) {
+                    console.error(errMsg);
+                }
+            });
+    }
+});
+
+$("#btn-ytsearch").click(function() {
+  console.log($("#ytsearch-text").val());
+
+      $.ajax({
+                type: "POST",
+                url: "/search/",
+                // The key needs to match your method's input parameter (case-sensitive).
+                data: JSON.stringify({
+                    'query': $("#ytsearch-text").val()
+                }),
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function(data) {
+                    console.log ("path: " + data);
+                      window.location.href = data.url;
+                },
+                failure: function(errMsg) {
+                    console.error(errMsg);
+                }
+            });
+});
+  </script>
+
+</body>
+</html>

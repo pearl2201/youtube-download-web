@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+
+{% block main %}
+<br>
+<div class="input-group">
+       <input type="text" data-provide="typeahead" class="form-control typeahead border-primary" name="query" id="query" placeholder="search..." autocomplete="off">
+ </div>
+ <hr><br><br>
+<div class="embed-responsive embed-responsive-16by9 col-xs-12 text-center">
+	<iframe src="https://www.youtube.com/embed/{{data.id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	</iframe>
+</div>
+<hr><br>
+
+<div class="list-group">
+	<div class="list-group-item header-list">
+		<div class="row">
+			<div class="col-3">
+				Type
+			</div>
+			<div class="col-3">
+				Extension
+			</div>
+			<div class="col-3">
+				Size
+			</div>
+			<div class="col-3">
+				Link
+			</div>
+		</div>
+	</div>
+{% for format in data["formats"] %}
+	<div class="list-group-item">
+		<div class="row">
+			<div class="col-3">
+				{% if format["audio"] %}
+					audio
+				{% else %}
+					video
+				{% endif %}
+			</div>
+			<div class="col-3">
+				{{format["ext"]}}
+			</div>
+			<div class="col-3">
+				{{format["size"]}} Mb
+			</div>
+			<div class="col-3">
+				<a href="{{format["url"]}}">Link</a>
+			</div>
+		</div>
+	</div>
+{% endfor %}
+</div>
+{% endblock %}
+
+

@@ -1,0 +1,29 @@
+.blog-list-item {
+    width: 50%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.header-list{
+	background-color: #000000;
+	color: white;
+}
+
+.twitter-typeahead, .tt-hint, .tt-input, .tt-menu { width: 100%; }
+.tt-menu{
+	margin-top:20px;
+}
+
+.tt-hint{
+	border-bottom: 1px;
+}
+
+.tt-suggestion{
+	border-bottom: 10px solid dash;
+}

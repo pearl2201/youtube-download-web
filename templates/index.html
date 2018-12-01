@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block main %}
+<form  action="/search/" method="get">
+<br>
+ <div class="input-group" id="ytsearch">
+<div class="col-10">
+  <input id = "ytsearch-text" class="form-control typeahead  border-primary"" type="text" placeholder="Search" name="ytsearch-text">
+</div>
+<div class="col-2">
+  <button type="submit" class="btn btn-primary" id="btn-ytsearch">Search</button>
+</div>
+ </div>
+</form>
+
+
+{% endblock %}
+
+  {% block js %}
+  {% endblock %}

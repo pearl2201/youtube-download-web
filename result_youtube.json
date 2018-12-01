@@ -1,0 +1,837 @@
+{
+    "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/zix7hRflinmoGtzWXwKbOLQJ39Y\"",
+    "items": [
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/oCgIc4u3npgRQ4qzrEPYfiGfab8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "c3e_2RgHZnM"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCumWX6YVC2ewI38xWcLbFMw",
+                "channelTitle": "NhacTinh te",
+                "description": "",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-06-18T07:16:48.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/c3e_2RgHZnM/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/c3e_2RgHZnM/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/c3e_2RgHZnM/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "MASHUP L\u1ee0 DUY\u00caN   RUM ft NIT"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/iu06WoFFM7GG7FaYGpt0pLoxDfg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fq_H4A3HgD4"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCAwafPyBrgSaIipzYw_0wog",
+                "channelTitle": "Rum",
+                "description": "MASHUP L\u1ee0 DUY\u00caN | RUM ft NIT SUBSCRIBE RUM: http://www.yeah1.net/Rum Rum: https://www.facebook.com/rumhowfeel Nit: ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-06-15T12:08:01.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/fq_H4A3HgD4/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/fq_H4A3HgD4/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/fq_H4A3HgD4/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "MASHUP L\u01a0\u0303 DUY\u00caN | RUM ft NIT"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/TmPCQyELlx5FN44JE0QzotvuRaI\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ivEg8ooeS8o"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UC3jcTA2_Lk4vxgCtizKWxvg",
+                "channelTitle": "Ph\u01b0\u1edbc Ho\u00e0i",
+                "description": "youtube http://www.youtube.com/channel/UC3jcTA2_Lk4vxgCtizKWxvg Facebook:https://www.facebook.com/lephuochoai.lph.",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2018-05-27T12:20:13.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/ivEg8ooeS8o/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/ivEg8ooeS8o/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/ivEg8ooeS8o/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "Mashup duy\u00ean (l\u1ee1 duy\u00ean,k\u00e9m duy\u00ean,t\u00f9y duy\u00ean,h\u1ebft duy\u00ean) RUM_NIT"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/d0zvAbfGxkhlNoW_STxhw-qDhts\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "xp_M5y4NaTY"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCNbN0PXZeHD3gQAqV1dE9mg",
+                "channelTitle": "POPS Music - Bolero",
+                "description": "\"B\u00e0i h\u00e1t: Tr\u1ef1c Ti\u1ebfp Nh\u1ea1c V\u00e0ng Bolero X\u01b0a Hay Ng\u00e2y Ng\u1ea5t - Tuy\u1ec3n T\u1eadp Nh\u1eefng Ca Kh\u00fac Bolero Tr\u1eef T\u00ecnh \u0110\u1eb7c S\u1eafc 2018 H\u00e3y Subscribe k\u00eanh POPS Music ...",
+                "liveBroadcastContent": "live",
+                "publishedAt": "2018-09-19T10:02:56.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/xp_M5y4NaTY/default_live.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/xp_M5y4NaTY/hqdefault_live.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/xp_M5y4NaTY/mqdefault_live.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "Tr\u1ef1c Ti\u1ebfp Nh\u1ea1c V\u00e0ng Bolero X\u01b0a Hay Ng\u00e2y Ng\u1ea5t - Tuy\u1ec3n T\u1eadp Nh\u1eefng Ca Kh\u00fac Bolero Tr\u1eef T\u00ecnh \u0110\u1eb7c S\u1eafc 2018"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/zmCXUSJACMUn9Re3Cvsa0CNnd4E\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oghOQ7QozwY"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCKFcfwI3JDuM2toVfAZPn8g",
+                "channelTitle": "C\u1eadu Hai Entertainment",
+                "description": "MASHUP CHI\u1ec0U H\u00d4M \u1ea4Y - L\u1ee0 DUY\u00caN - GHEN - Y\u00caU 5 - QUAWNG TAO C\u00c1I BOONG | NH\u1eeeNG B\u1ea2N MASHUP M\u1edaI 2018 \u261e Link Mp3: \u261e Link \u1ea2nh ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-12-19T07:55:53.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/oghOQ7QozwY/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/oghOQ7QozwY/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/oghOQ7QozwY/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "MASHUP CHI\u1ec0U H\u00d4M \u1ea4Y - L\u1ee0 DUY\u00caN - GHEN - Y\u00caU 5 - QU\u0102NG TAO C\u00c1I BOONG | NH\u1eeeNG B\u1ea2N MASHUP M\u1edaI 2018"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/HGJZNNBQWCZxh33gW25jfyf5JNE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "N9wNjRDS4hI"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCA3GtNtuKvcj6VrwZ5Gpx9g",
+                "channelTitle": "DIEN QUAN Entertainment / Gi\u1ea3i Tr\u00ed",
+                "description": "Phi\u00ean b\u1ea3n ho\u00e0n h\u1ea3o t\u1eadp 15, Minh Tri\u1ebft v\u00e0 Qu\u1ed1c S\u01a1n h\u00e1t mash up Ng\u0169 Cung \u0111\u1ea7y nh\u1eefng b\u00e0i hit c\u1ee7a ca s\u0129 Quang Linh, khi\u1ebfn b\u1ed9 ba gi\u00e1m kh\u1ea3o M\u1ef9 T\u00e2m, \u01afng ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-06-14T16:49:38.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/N9wNjRDS4hI/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/N9wNjRDS4hI/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/N9wNjRDS4hI/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "Phi\u00ean b\u1ea3n ho\u00e0n h\u1ea3o | t\u1eadp 15: 2 ch\u00e0ng trai h\u00e1t mash up Ng\u0169 Cung khi\u1ebfn b\u1ed9 ba gi\u00e1m kh\u1ea3o hoang mang"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/V-GbJNyYwgEsLXqmzd98Cw0San0\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fxeSvAsqzlo"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UC4xAg5aKueJ7dl2Q5WLP_1g",
+                "channelTitle": "H\u01b0\u01a1ng Tr\u00e0m Singer",
+                "description": "H\u01b0\u01a1ng Tr\u00e0m - Duy\u00ean M\u00ecnh L\u1ee1 ( #DML ) [ Official MV ] \u0110\u0103ng k\u00fd k\u00eanh \u0111\u1ec3 theo d\u00f5i MV m\u1edbi nh\u1ea5t c\u1ee7a Tr\u00e0m nh\u00e9: http://yeah1.net/HuongTram \u25bbFollow: FB H\u01b0\u01a1ng ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2018-06-29T13:00:09.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/fxeSvAsqzlo/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/fxeSvAsqzlo/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/fxeSvAsqzlo/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "H\u01b0\u01a1ng Tr\u00e0m - Duy\u00ean M\u00ecnh L\u1ee1 ( #DML ) [ Official MV ]"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/eOWfqUGzPGVS226dWjFAImchFfE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YiJg526oQVU"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UC7Tu5_pk13bnyeXqh9Rnu0g",
+                "channelTitle": "Hi\u1ec3u Nh\u00e2n",
+                "description": "Mashup L\u1ee1 duy\u00ean - Ghen - M\u1eb7t tr\u1eddi c\u1ee7a em - Cho h\u1ecd gh\u00e9t \u0111i em | Nh\u1eefng b\u1ea3n mashup tuy\u1ec7t v\u1eddi \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-11-19T11:00:02.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/YiJg526oQVU/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/YiJg526oQVU/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/YiJg526oQVU/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "Mashup L\u1ee1 duy\u00ean - Ghen - M\u1eb7t tr\u1eddi c\u1ee7a em - Cho h\u1ecd gh\u00e9t \u0111i em | Nh\u1eefng b\u1ea3n mashup tuy\u1ec7t v\u1eddi"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/SaTu7WKifcRM-LeS-Y9HGJia0TU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "cvoyUIIAdrY"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCAwafPyBrgSaIipzYw_0wog",
+                "channelTitle": "Rum",
+                "description": "K\u00e9m Duy\u00ean - Rum x Nit x Masew SUBSCRIBE RUM: http://www.yeah1.net/Rum. Composer: H\u01b0ng Nguy\u1ec5n , Rum H\u01b0ng Nguy\u1ec5n ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-11-05T12:01:05.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/cvoyUIIAdrY/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/cvoyUIIAdrY/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/cvoyUIIAdrY/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "K\u00c9M DUY\u00caN | RUM X NIT X MASEW"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/-zSJTfRpciT73o-LcLus1VXePoQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "5yDe6xBTgnQ"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCDlaifc319rOBuW0y5K-CUQ",
+                "channelTitle": "Nh\u1eb7t",
+                "description": "G\u00d3P NH\u1eb6T C\u1ea2M X\u00daC C\u1ee6A B\u1ea0N + B\u00e0i h\u00e1t: L\u1ee1 Duy\u00ean + Th\u1ebf hi\u1ec7n: Rum ft Nit + Edited by Nh\u1eb7t + Danh s\u00e1ch c\u00e1c b\u00e0i h\u00e1t: - C\u00f2 l\u1ea3 - Quan h\u1ecd B\u1eafc Ninh - L\u1ea1i M\u1ed9t L\u1ea7n..",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-06-20T09:15:58.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/5yDe6xBTgnQ/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/5yDe6xBTgnQ/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/5yDe6xBTgnQ/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "L\u1ee1 Duy\u00ean | Mashup | Rum ft Nit | Lyric Video"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lYLWZqZ3Hl3JyY8fFUgB8gVZqUU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lW5Ja-40HtM"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UC8vQFLQ6RUSh8_G0Gv8lsGg",
+                "channelTitle": "Hu\u1ef3nh L\u1eadp Official",
+                "description": "Parody l\u00e0 th\u1ec3 lo\u1ea1i h\u00e0i \u0111\u01b0\u1ee3c s\u00e1ng t\u1ea1o t\u1eeb phi\u00ean b\u1ea3n g\u1ed1c, Hu\u1ef3nh L\u1eadp ti\u1ebfp t\u1ee5c tr\u1edf l\u1ea1i th\u1ec3 lo\u1ea1i Parody ho\u00e0n to\u00e0n gi\u1ea3i tr\u00ed \u0111\u1ec3 mang \u0111\u1ebfn ti\u1ebfng c\u01b0\u1eddi...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2018-08-08T12:58:26.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/lW5Ja-40HtM/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/lW5Ja-40HtM/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/lW5Ja-40HtM/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "HU\u1ef2NH L\u1eacP - PARODY DUY\u00caN M\u00ccNH L\u1ee0 (#DML) | L\u00c2M KH\u00c1NH CHI, QUANG TRUNG, T\u1ea4N PH\u00c1T, L\u00ca NH\u00c2N [MV 4K]"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7s2fDebod6cQB1mPjsluZU2A1kU\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "VJeXl41BJwg"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCyoojBiHR7St7e83tmIbZ_A",
+                "channelTitle": "Nguy\u1ec5n Phong",
+                "description": "+ B\u00e0i h\u00e1t: L\u1ee1 Duy\u00ean + Th\u1ebf hi\u1ec7n: Rum ft Nit + Edited by Nguy\u1ec5n Phong ( Gi\u00f3 ) + Danh s\u00e1ch c\u00e1c b\u00e0i h\u00e1t: - C\u00f2 l\u1ea3 - Quan h\u1ecd B\u1eafc Ninh - L\u1ea1i M\u1ed9t L\u1ea7n N\u1eefa - Kh\u1eafc Vi\u1ec7t.",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-07-21T06:13:37.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/VJeXl41BJwg/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/VJeXl41BJwg/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/VJeXl41BJwg/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "MASHUP L\u1ee0 DUY\u00caN - RUM ft NIT  | MUSIC 1 HOUR VERSION"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/oneONTQfNL5qwwsfk2I5b-65RiY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sFA6TUxfc2A"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UC9d_4iZjj-SDYvt98Gz-eaQ",
+                "channelTitle": "SONG TOAN music",
+                "description": "[KARAOKE] Mashup L\u1ee1 Duy\u00ean - Rum, Nit B\u1ea3n Ph\u1ed1i M\u1edbi [KARAOKE] Mashup Ng\u0169 Cung - Qu\u1ed1c S\u01a1n, Minh Tri\u1ebft B\u1ea3n Ph\u1ed1i M\u1edbi - N\u1ebfu c\u1ea3m th\u1ea5y th\u00edch video n\u00e0y, ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-06-24T02:13:21.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/sFA6TUxfc2A/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/sFA6TUxfc2A/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/sFA6TUxfc2A/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "[KARAOKE HOT] Mashup NG\u0168 CUNG (L\u1ee0 DUY\u00caN) - Rum, Nit (Beat Full Chu\u1ea9n)"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/7420ejmag0R6iQeLDOmlrNHYSKA\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7TtpZxEAwgw"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UC1wGwOl5g0mRgayyXeQJ4Gg",
+                "channelTitle": "Kim Yong",
+                "description": "_ ^ ) Subscribe to my channel ( ^ _ ^ ) | Fanpage : https://goo.gl/ovNrd9 | My Facebook : https://goo.gl/k6L49t | Xem nhi\u1ec1u h\u01a1n t\u1ea1i \u0111\u00e2y : https://goo.gl/GpP9Qw ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-06-17T06:07:46.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/7TtpZxEAwgw/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/7TtpZxEAwgw/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/7TtpZxEAwgw/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "Nightcore - L\u1ee1 Duy\u00ean - Rum if Nit [Lyrics]"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ujzuOAcBLTJterfXecamOz15-vY\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_6g0LT4qS54"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCu_HroQF0RXM7XW9Gvk8C_Q",
+                "channelTitle": "C\u1ee7 L\u1ea1c TV",
+                "description": "S\u01a1n T\u00f9ng MTP Cover Mashup L\u1ee1 Duy\u00ean C\u1ef1c Ng\u1ecdt | B\u1ea3n Full S\u01a1n T\u00f9ng M-TP Cover Mashup L\u1ee1 Duy\u00ean C\u1ef1c Ng\u1ecdt | B\u1ea3n Full S\u01a1n T\u00f9ng M-TP S\u01a1n T\u00f9ng M-TP ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2018-08-17T10:35:46.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/_6g0LT4qS54/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/_6g0LT4qS54/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/_6g0LT4qS54/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "S\u01a1n T\u00f9ng M-TP Cover Mashup L\u1ee1 Duy\u00ean C\u1ef1c Ng\u1ecdt | B\u1ea3n Full"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/55enmjnzOfgQ2TfiiLSCWn7E1Lg\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "If--AMmlQdg"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCZrSQW62LV1lI0ulyjfYhvw",
+                "channelTitle": "BLUESEA channel",
+                "description": "B\u00e0i h\u00e1t: L\u1ee1 Chuy\u1ebfn \u0110\u00f2 Duy\u00ean Tr\u00ecnh b\u00e0y: Cao Ho\u00e0ng Nghi ft Ng\u1ecdc Thu S\u00e1ng t\u00e1c: Cao Nh\u1eadt Minh \u0110\u1ebfn t\u1eeb qu\u00ea h\u01b0\u01a1ng mi\u1ec1n T\u00e2y s\u00f4ng n\u01b0\u1edbc n\u00ean Cao Ho\u00e0ng Nghi ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2015-06-10T09:27:04.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/If--AMmlQdg/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/If--AMmlQdg/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/If--AMmlQdg/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "L\u1ee1 Chuy\u1ebfn \u0110\u00f2 Duy\u00ean - Cao Ho\u00e0ng Nghi ft Ng\u1ecdc Thu [Official MV]"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/fxVoqiUkr4wfBG8MTRnPth681G8\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yCGbgkv7GiM"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCR1E3YeiCszpx6qUz1eAJnw",
+                "channelTitle": "Tika T\u00f9ng Anh",
+                "description": "Facebook Tika T\u00f9ng Anh (\u00c1o k\u1ebb): https://www.facebook.com/tika2k Facebook Kim H\u1ea3i: https://www.facebook.com/kimhaihaki.",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-07-11T05:26:02.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/yCGbgkv7GiM/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/yCGbgkv7GiM/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/yCGbgkv7GiM/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "Mashup L\u1ee1 Duy\u00ean live h\u1ecdc sinh - Tika T\u00f9ng Anh, Kim H\u1ea3i"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/N4el7G6zMpmPwc1FCHSLLePWyBE\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QgzNkuSjrIc"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCmQN5EBrgQiAK0PMmkqxXiA",
+                "channelTitle": "T\u00e0i V\u00f5",
+                "description": "[Li\u00ean Kh\u00fac] Duy\u00ean- L\u1ee1 Duy\u00ean, K\u00e9m Duy\u00ean, T\u00f9y Duy\u00ean, H\u1ebft Duy\u00ean - RUM & NIT ~ Ch\u00fac c\u00e1c b\u1ea1n nghe nh\u1ea1c vui v\u1ebb ~ 1. L\u1ee1 duy\u00ean 2. K\u00e9m duy\u00ean 3. T\u00f9y duy\u00ean 4.",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2018-05-24T16:51:52.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/QgzNkuSjrIc/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/QgzNkuSjrIc/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/QgzNkuSjrIc/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "[Li\u00ean Kh\u00fac] Duy\u00ean- L\u1ee1 Duy\u00ean, K\u00e9m Duy\u00ean, T\u00f9y Duy\u00ean, H\u1ebft Duy\u00ean - RUM & NIT"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/VYJclPfq9hvC7ziiT447MpUKg6s\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7ezFrF82GUg"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCWMZnDm99Ng9WfBAYb484qw",
+                "channelTitle": "C\u1ea9m Ly",
+                "description": "K\u00eanh YouTube ch\u00ednh th\u1ee9c c\u1ee7a ca s\u1ef9 C\u1ea9m Ly M\u1ecdi ng\u01b0\u1eddi click subscribe \u0111\u1ec3 theo d\u00f5i c\u00e1c ca kh\u00fac hay nh\u1ea5t c\u1ee7a ch\u1ecb T\u01b0 nh\u00e9! Click subscribe \u1edf \u0111\u00e2y: ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-05-02T00:00:00.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/7ezFrF82GUg/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/7ezFrF82GUg/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/7ezFrF82GUg/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "L\u1ee1 Duy\u00ean - C\u1ea9m Ly"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/A5X8CB9n-6z1TJ4QDX8vuZBxsKw\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0mk-qv2wF5I"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCZIR8nsHnYRfjwhHBrO98OQ",
+                "channelTitle": "\u00c2m Nh\u1ea1c 1 Hour",
+                "description": "B\u00e0i h\u00e1t : L\u1ee1 Duy\u00ean \u266aTh\u1ec3 Hi\u1ec7n: Rum, NIT - Video Editor : \u00c2m Nh\u1ea1c 1 Hour ------------------------------------------------------ \u2606 TH\u00d4NG TIN: _Rum Facabook: Youtobe: ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-06-21T12:28:05.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/0mk-qv2wF5I/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/0mk-qv2wF5I/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/0mk-qv2wF5I/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "Mashup L\u1ee1 Duy\u00ean (Ng\u0169 Cung) - Rum, NIT [Video 1 Hour]"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/e0UJch2NiT160I4hdVp3yJuPQes\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GqJ15uSoklE"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCI2OiZs5aVcyBUBVsgovzng",
+                "channelTitle": "YEAH1 MUSIC",
+                "description": "Duy\u00ean M\u00ecnh L\u1ee1 - H\u01b0\u01a1ng Tr\u00e0m | Phi\u00ean B\u1ea3n Ho\u1ea1t H\u00ecnh [ Lyric MV ] \u2665 B\u1ea5m Subscribe Ngay: http://yeah1.net/Yeah1Music \u2665 \u2665 FB: ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2018-07-20T03:58:52.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/GqJ15uSoklE/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/GqJ15uSoklE/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/GqJ15uSoklE/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "Duy\u00ean M\u00ecnh L\u1ee1 - H\u01b0\u01a1ng Tr\u00e0m | Phi\u00ean B\u1ea3n Ho\u1ea1t H\u00ecnh [ Lyric MV ]"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/BCrRwr5o7f64pc1PghDrdcltHKM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "art2UxgOnhg"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UChHvuuqXJhZKIf0nalrZ8Xw",
+                "channelTitle": "FC C\u1ea9m Ly",
+                "description": "S\u00e1ng t\u00e1c: H\u1ed3ng X\u01b0\u01a1ng Long. DVD The Best Of C\u1ea9m Ly 2005.",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2014-07-28T14:35:26.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/art2UxgOnhg/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/art2UxgOnhg/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/art2UxgOnhg/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "C\u1ea9m Ly - L\u1ee1 Duy\u00ean (Official Music Video)"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/nQuj5KviIjPHbDH2KL6fJazIjuM\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "FeenZtaRsi0"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCezXQXDtS16-HZU2Axtf-Xw",
+                "channelTitle": "G Y",
+                "description": "Mashup L\u1ee1 Duy\u00ean - Rum ft Nit Rum: https://www.facebook.com/rumhowfeel Nit: https://www.facebook.com/nitkute2016x Tracklist : C\u00f2 l\u1ea3 - Quan h\u1ecd B\u1eafc Ninh L\u1ea1i ...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-06-16T11:48:23.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/FeenZtaRsi0/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/FeenZtaRsi0/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/FeenZtaRsi0/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "Lyrics || Mashup L\u1ee1 Duy\u00ean - Rum ft. Nit (Ng\u0169 Cung)"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/lRqTs8mKtdp0Ex--Btzre3d2UBo\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "YqUB0Q-6Dn4"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UC4U5sgzTIvqw4sIHg1F_tdQ",
+                "channelTitle": "Loren You",
+                "description": "Lo Duyen - Royzee ft. Dykey Nhan. You______________________________ \u25bbNh\u1ea5n Like & Subscribe (\u0110\u0103ng k\u00fd) \u0111\u1ec5 c\u1eadp nh\u1eadt nh\u1eefng Video Rap m\u1edbi nh\u1ea5t ....",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2017-07-28T12:24:14.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/YqUB0Q-6Dn4/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/YqUB0Q-6Dn4/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/YqUB0Q-6Dn4/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "L\u1ee1 Duy\u00ean - Royzee ft. Dykey Nh\u00e2n [ Video Lyrics ]"
+            }
+        },
+        {
+            "etag": "\"XI7nbFXulYBIpL0ayR_gDh3eu1k/ltkrgrWs71DOklsmLFsMT3AnqgQ\"",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1Rxe9JOozqU"
+            },
+            "kind": "youtube#searchResult",
+            "snippet": {
+                "channelId": "UCkvXQC4-H8Snjpi1CWyhD5g",
+                "channelTitle": "L\u00e3o T\u1ec1 Anime",
+                "description": "Cover K\u00e9m Duy\u00ean, L\u1ee1 Duy\u00ean, H\u1ebft Duy\u00ean, T\u00f9y Duy\u00ean Remix - Nit x Rum x T\u0103ng Duy T\u00e2n x Masew K\u00e9m Duy\u00ean - Rum x Nit x Masew. Composer: H\u01b0ng Nguy\u1ec5n...",
+                "liveBroadcastContent": "none",
+                "publishedAt": "2018-05-31T03:21:44.000Z",
+                "thumbnails": {
+                    "default": {
+                        "height": 90,
+                        "url": "https://i.ytimg.com/vi/1Rxe9JOozqU/default.jpg",
+                        "width": 120
+                    },
+                    "high": {
+                        "height": 360,
+                        "url": "https://i.ytimg.com/vi/1Rxe9JOozqU/hqdefault.jpg",
+                        "width": 480
+                    },
+                    "medium": {
+                        "height": 180,
+                        "url": "https://i.ytimg.com/vi/1Rxe9JOozqU/mqdefault.jpg",
+                        "width": 320
+                    }
+                },
+                "title": "Mashup duy\u00ean(H\u1ebft Duy\u00ean, K\u00e9m Duy\u00ean, L\u1ee1 Duy\u00ean, T\u00f9y Duy\u00ean remix) I Nit x Rum x T\u0103ng Duy T\u00e2n x Masew"
+            }
+        }
+    ],
+    "kind": "youtube#searchListResponse",
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+        "resultsPerPage": 25,
+        "totalResults": 57668
+    },
+    "regionCode": "VN"
+}
