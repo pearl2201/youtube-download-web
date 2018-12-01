@@ -204,6 +204,13 @@ $('#ytsearch .typeahead').typeahead(null, {
   afterSelect: function (item) {
         // do what is needed with item
         //and then, for example ,focus on some other control
+      console.log("on item: " + item);  
+    
+    }
+});
+
+$('#ytsearch  .typeahead').on('typeahead:selected', function (e, item) {
+
 
       $.ajax({
                 type: "POST",
@@ -216,13 +223,12 @@ $('#ytsearch .typeahead').typeahead(null, {
                 dataType: "json",
                 success: function(data) {
                     console.log ("path: " + data);
-                      window.location.href = data.url;
+                    window.location.href = data.url;
                 },
                 failure: function(errMsg) {
                     console.error(errMsg);
                 }
             });
-    }
 });
 
 $("#btn-ytsearch").click(function() {

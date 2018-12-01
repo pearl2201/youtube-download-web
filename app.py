@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 import os
-
 import google.oauth2.credentials
 import re
 import google_auth_oauthlib.flow
@@ -34,27 +33,22 @@ ydl_opts = {
  
 }
 
-
-def sortkeypicker(keynames):
-    negate = set()
-    for i, k in enumerate(keynames):
-        if k[:1] == '-':
-            keynames[i] = k[1:]
-            negate.add(k[1:])
-    def getit(adict):
-       composite = [adict[k] for k in keynames]
-       for i, (k, v) in enumerate(zip(keynames, composite)):
-           if k in negate:
-               composite[i] = -v
-       return composite
-    return getit
-
 def build_request(http, *args, **kwargs):
 	new_http = httplib2.Http()
 	return apiclient.http.HttpRequest(new_http, *args, **kwargs)
 
+
 os.environ['OAUTHLIB_INSECURE_TRANSPORT'] = '1'
 client = build(API_SERVICE_NAME, API_VERSION, developerKey='AIzaSyC778FuABmYJfUhPwa-HaY-U7xXV9ZJZnM',requestBuilder=build_request)
+
+def searchStr(keyword):
+	response = client.search().list(
+		part='snippet',
+		maxResults=25,
+		q=keyword
+		).execute()
+	return jsonify(**response)
+
 
 def parse_response_youtube(data):
 	with open('result_youtube.json','w') as f:
@@ -72,15 +66,6 @@ def parse_response_youtube(data):
 	})
 		
 	return ret
-
-@app.before_request
-def before_request():
-    if True:
-        print ("HEADERS", request.headers)
-        print ("REQ_path", request.path)
-        print ("ARGS",request.args)
-        print ("DATA",request.data)
-        print ("FORM",request.form)
 
 @app.errorhandler(404)
 def page_not_found(e):
@@ -148,14 +133,6 @@ def get_search_page():
 	print (parse_response_youtube(dict(**response)))
 	return render_template('search.html',search_text=q,data=parse_response_youtube(dict(**response)))
 
-
-def searchStr(keyword):
-	response = client.search().list(
-		part='snippet',
-		maxResults=25,
-		q=keyword
-		).execute()
-	return jsonify(**response)
 
 @app.route('/video/',methods=('POST',))
 def redirect_video():

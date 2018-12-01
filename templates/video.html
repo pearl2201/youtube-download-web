@@ -2,9 +2,17 @@
 
 {% block main %}
 <br>
-<div class="input-group">
-       <input type="text" data-provide="typeahead" class="form-control typeahead border-primary" name="query" id="query" placeholder="search..." autocomplete="off">
+<form  action="/search/" method="get">
+<br>
+ <div class="input-group" id="ytsearch">
+<div class="col-10">
+  <input id = "ytsearch-text" class="form-control typeahead  border-primary"" type="text" placeholder="search" name="ytsearch-text">
+</div>
+<div class="col-2">
+  <button type="submit" class="btn btn-primary" id="btn-ytsearch">Search</button>
+</div>
  </div>
+</form>
  <hr><br><br>
 <div class="embed-responsive embed-responsive-16by9 col-xs-12 text-center">
 	<iframe src="https://www.youtube.com/embed/{{data.id}}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
