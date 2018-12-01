@@ -181,7 +181,7 @@ def video(id):
     		'audio': "audio only" in format["format"]
 
     		}	
-				formats.append(temp)
+			formats.append(temp)
 
 	sorted_formats = sorted(formats, key=itemgetter('audio','ext','size')) 
 	data["formats"] = sorted_formats
