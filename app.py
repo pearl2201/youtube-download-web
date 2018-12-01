@@ -19,7 +19,7 @@ app = Flask(__name__)
 # Note: A secret key is included in the sample so that it works, but if you
 # use this code in your application please replace this with a truly secret
 # key. See http://flask.pocoo.org/docs/0.12/quickstart/#sessions.
-app.secret_key = 'AIzaSyC778FuABmYJfUhPwa-HaY-U7xXV9ZJZnM'
+app.secret_key = 'your-key-here'
 
 # This OAuth 2.0 access scope allows for full read/write access to the
 # authenticated user's account and requires requests to use an SSL connection.
